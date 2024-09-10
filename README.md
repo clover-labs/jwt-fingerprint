@@ -2,6 +2,7 @@
 
 This is a example GoLang implentation of JWT authentication using fingerprints deployed on AWS Lambda using AWS SAM:
 
+This application implements JWT authentication including registration,login,silent login and fetching endpoints and shows usage of fingerprint for securing JWT token authentication. For explanation of the code please visit the BLOG POST.
 
 
 ## Requirements
