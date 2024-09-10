@@ -1,4 +1,4 @@
-# goAuth
+# JWT Fingerprint Authentication
 
 This is a example GoLang implentation of JWT authentication using fingerprints deployed on AWS Lambda using AWS SAM:
 
